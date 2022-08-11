@@ -39,7 +39,7 @@ public class Main {
             }
         }
         System.out.println("После определения, какая буква встречалась в текстe Lorem Ipsum чаще всего" +
-                "и какая реже всего, получили следующие результаты:");
+                " и какая реже всего, получили следующие результаты:");
         System.out.println();
         System.out.println("Встречалась в тексте чаще всего буква: " + maxSymbol + " = " + maxValue);
         System.out.println("Встречалась в тексте реже всего буква: " + minSymbol + " = " + minValue);
